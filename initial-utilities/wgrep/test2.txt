@@ -1,0 +1,5 @@
+wcat make. foo
+
+this is ostep project
+
+t2
